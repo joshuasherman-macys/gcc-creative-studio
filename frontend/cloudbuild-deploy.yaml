@@ -107,7 +107,3 @@ availableSecrets:
 
 options:
   logging: CLOUD_LOGGING_ONLY
-
- vpcAccess:
-  egress: ALL_TRAFFIC
-  connector: '_CONNECTOR_ID'
